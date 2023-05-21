@@ -14,11 +14,23 @@ This is the most powerful telegram viewers tool that bypass of active user on te
 
 ## Installation
 
-Install my-project with npm
+Install my-project with 😈😍👇💕💕
 
-```bash
-  npm install my-project
-  cd my-project
+```pkg install python
+
+pip install colorama
+
+pip install bs4
+
+pip install requests
+
+pip install rich
+
+git clone https://github.com/Telegram-Auto-Viewer
+
+cd Telegram-Auto-Viewer
+
+python VIP-VIEWER.py
 ```
     
 ## Screenshots Step 1
