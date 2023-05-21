@@ -26,11 +26,12 @@ pip install requests
 
 pip install rich
 
-git clone https://github.com/Telegram-Auto-Viewer
+git clone https://github.com/DEVIL-MAY-CRY-444/Telegram-Auto-Viewer
 
 cd Telegram-Auto-Viewer
 
 python VIP-VIEWER.py
+
 ```
     
 ## Screenshots Step 1
